@@ -1,0 +1,29 @@
+
+  h1  {
+	  
+	font-size: 30px ;
+        text-shadow: 3px 2px green;
+        
+  }
+  
+  h2  {
+	font-size:  30px;  
+        text-shadow: 3px  2px red;
+  }
+  
+ h3  {
+   font-size: 30px; 
+   text-shadow: 3px 2px orange;
+ }
+ 
+ body  {
+	 background-color: blue;
+        padding:100px  ;
+       margin:100px ;
+       float:right;
+ }
+
+div   {
+    border-style:solid;
+    border-color:yellow;
+   }

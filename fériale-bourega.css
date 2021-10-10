@@ -1,0 +1,40 @@
+
+  h1    {
+	  font-size: 20 px;
+          font-family: "Times new roman"; 
+	  text-shadow: 3px  2px  red;
+  }
+  
+  h2     {
+	  font-size:  20 px;
+          font-family:"Times";
+          text-shadow: 3px 2px blue;
+          border-bottom: 5px  solid red;
+  }
+  
+  h3     {
+	  font-size:  20 px;
+          font-family:"Serif";
+          text-shadow: 3px 2px yellow;
+          border-bottom:4px dotted blue;
+  }
+  
+  body    {
+	  background-color: coral;
+          padding:70 px;
+          margin:70 px;
+          
+  }
+   
+
+  div   {
+       border-style:solid;
+       border-color: yellow;
+    }
+
+   
+  
+  
+  
+  
+  
